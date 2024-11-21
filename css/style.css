@@ -5046,6 +5046,7 @@ Section Title
 @media (max-width: 480px) {
   .banner-section-one .content-box .title {
     font-size: 45px !important;
+    margin-left: -40px;
 
 
   }
